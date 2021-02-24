@@ -16,4 +16,4 @@ The dependencies are `tensorflow` (tested with version 2.4.0) and `tensorflow_pr
 ## Demo Colab
 You can run the code in a google colab notebook:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mylonasc/fatigue_cvae/blob/main/notebooks/2021-CVAE_v3.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mylonasc/fatigue_cvae/blob/master/notebooks/2021-CVAE_v3.ipynb)
